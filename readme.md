@@ -36,7 +36,6 @@ You will have 0 members assigned to the contract. Click the 0 in upper right and
 
 Applications and contracts can be uploaded to Azure Blockchain Workbench without modification.
 
-For Ethereum contract development, install [Visual Studio Code](https://code.visualstudio.com/) and the [Solidity plugin](https://marketplace.visualstudio.com/items?itemName=JuanBlanco.solidity)
 
 ## Contributing
 
