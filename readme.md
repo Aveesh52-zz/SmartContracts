@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This section includes applications and smart contracts that can be deployed to Azure Blockchain Workbench in their current form or can be transformed to meet the needs of your scenario.
+This section includes applications and smart contracts that can be deployed using Azure Blockchain Workbench. You can modify them to work with other otions.
 
 ## Available Contracts
 * [Hello Blockchain](hello-blockchain/readme.md)
@@ -31,13 +31,11 @@ A tile for your new application, will be displayed. Click it.
 [](media/deployapp4.PNG)
 You will have 0 members assigned to the contract. Click the 0 in upper right and add members as appropriate.
 
-Note: We do not support [libraries](https://solidity.readthedocs.io/en/v0.4.21/contracts.html#libraries) in the current version of Workbench. Please move the functions from the library into your contract. 
 
 ## Prerequisites
 
 Applications and contracts can be uploaded to Azure Blockchain Workbench without modification.
 
-For Ethereum contract development, install [Visual Studio Code](https://code.visualstudio.com/) and the [Solidity plugin](https://marketplace.visualstudio.com/items?itemName=JuanBlanco.solidity)
 
 ## Contributing
 
