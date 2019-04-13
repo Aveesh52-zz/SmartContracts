@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This section includes applications and smart contracts that can be deployed to Azure Blockchain Workbench in their current form or can be transformed to meet the needs of your scenario.
+This section includes applications and smart contracts that can be deployed using Azure Blockchain Workbench. You can modify them to work with other otions.
 
 ## Available Contracts
 * [Hello Blockchain](hello-blockchain/readme.md)
